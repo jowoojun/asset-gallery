@@ -1,0 +1,5 @@
+export const BodyColor = 'rgba(11,10,14,255)'
+export const CardColor = '#212224'
+export const LogoColor = 'rgb(200, 207, 220)'
+export const IconColor = 'rgb(230, 235, 230)'
+export const DefaultFontColor = 'rgb(220, 227, 240)'

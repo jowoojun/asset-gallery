@@ -1,0 +1,3 @@
+# AssetGalleryBack
+
+npx sequelize init

@@ -1,0 +1,7 @@
+package-lock.json
+
+data/
+.next
+node_modules
+*.pem
+.env
