@@ -3,6 +3,8 @@
 
 ## 웹사이트 주소
 - https://asset-gallery.com
+- https://github.com/jowoojun/AssetGalleryFront (private)
+- https://github.com/jowoojun/AssetGalleryBack (private)
 
 ## Front-end 스펙
 
